@@ -3,3 +3,5 @@ test file
 add by github
 
 dev add func1
+
+add func2
