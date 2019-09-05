@@ -6,4 +6,8 @@ dev add func1
 
 add func2
 
+<<<<<<< HEAD
 code 1
+=======
+code 2
+>>>>>>> 6a453f8ce39780c56e776149d01b396f23a2f88d
