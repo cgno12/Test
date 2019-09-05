@@ -6,5 +6,6 @@ dev add func1
 
 add func2
 
+code 1
 code 3
 
